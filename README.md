@@ -47,7 +47,7 @@ MyChemistryLab is an interactive learning platform designed to enhance chemistry
 1.  Clone the repository:
 
     ```
-    git clone https://github.com/TTSouth/ChemistryLabs.git
+    git clone https://github.com/openqquantify/MyChemistryLab.git
     ```
 
 2.  Navigate to the project directory:
@@ -163,3 +163,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Contact
+
+For questions or support, please contact Tanya Thomas at contact@TanyaDThomas.com.
